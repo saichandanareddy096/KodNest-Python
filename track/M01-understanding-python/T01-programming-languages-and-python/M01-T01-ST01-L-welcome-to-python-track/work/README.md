@@ -28,4 +28,37 @@ Programming means:Giving instructions to a computer to perform tasks and solve p
 
 Python is:A simple, powerful, and beginner-friendly programming language used to develop applications and solve problems.
 
-In this track, I will learn: Python programming, SQL, HTML, CSS, JavaScript, backend development, database connectivity, and full stack application development.
+In this track, I will learn: Python programming, SQL, HTML, CSS, JavaScript, backend development, database connectivity, and full stack application development
+
+## What Is a Programming Language?
+
+Programming is the process of creating clear instructions  to solve a problem using computer.
+
+## What Is Python?
+
+Python means it is a formal language to write a program instructions in a computer understandable language.
+
+## What Is Syntax?
+
+Syntax means writing rules of programing language
+
+## Programming and Python
+
+programming means creating instructions to solve a problem.
+python is a formal language where the program is written in computer understandable way.
+
+## What Remained the Same?
+
+the outcome will be the same.
+
+## What Changed?
+
+the programing instructions are changed into python code.
+
+## My Final Understanding
+
+Programming helps me:To understand the problem
+
+Python helps me:To write the code
+
+Syntax tells me:The instructions to be followed while writing the code.
